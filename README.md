@@ -33,12 +33,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/karimtemo10/karimtemo10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/karimtemo10/karimtemo10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div> 
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/karim-reda-ab63793b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
