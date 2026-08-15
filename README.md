@@ -32,9 +32,9 @@
 
 ###
 
-<!-- <div data-importer="stats" align="center">
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/karimtemo10/karimtemo10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="101" alt="languages graph"  />
-</div> -->
+</div> 
 
 ###
 
